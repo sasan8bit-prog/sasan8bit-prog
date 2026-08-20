@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./sizif.png" width="400" />
+  <img src="./17872443685f1a.png" width="400" />
 </div>
