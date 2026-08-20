@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./OIP-3979547438.jpg" alt="описание" width="400" />
+  <img src="./sizif.jpg" width="400" />
 </div>
